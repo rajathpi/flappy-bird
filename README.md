@@ -9,3 +9,7 @@ pip install neat-python
 
 # Instructions
 Simply run *flappy_bird.py* and watch an AI start training itself to play the game of flappy bird!
+
+
+![flappy](https://user-images.githubusercontent.com/82278285/118827480-0a4afd00-b8da-11eb-949a-46023b36b7c6.gif)
+
