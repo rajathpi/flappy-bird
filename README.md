@@ -5,7 +5,7 @@
 <a href="https://raw.githubusercontent.com/rajathpi/flappy-bird/main/Flappy_bird.py">
   code
   <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/285/backhand-index-pointing-left_1f448.png" width="30" align="center">
- </a></br></br>
+ </a><br><br>
 Using NeuroEvolution of Augmenting Topologies(NEAT) to train an agent to play the game Flappy bird. Programming both the environment and the AI using python
 
 # Installations
