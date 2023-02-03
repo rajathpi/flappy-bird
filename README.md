@@ -4,7 +4,7 @@
 </h1>
 <a href="https://raw.githubusercontent.com/rajathpi/flappy-bird/main/Flappy_bird.py">
   Code
-  <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/bird_1f426.png" width="50" align="center">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/337/bird_1f426.png" width="50" align="center">
  </a><br><br>
 Using NeuroEvolution of Augmenting Topologies(NEAT) to train an agent to play the game Flappy bird. Programming both the environment and the AI using python
 
@@ -14,7 +14,7 @@ pip install pygame
 pip install neat-python
 ```
 
-# Instructions
+# Instructions <img src="https://em-content.zobj.net/thumbs/160/docomo/205/baby-chick_1f424.png" width="50" align="center">
 Simply run *flappy_bird.py* and watch an AI start training itself to play the game of flappy bird!
 
 
